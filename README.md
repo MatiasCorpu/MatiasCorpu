@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Bungee Tint&size=30&center=true&vCenter=true&width=500&height=70&duration=1300&lines=Hola+que+tal!+👋;+Soy+Matías!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=500&height=70&duration=1350&lines=Hola+que+tal!+👋;+Soy+Matías!;" />
 </h1>
 
 <br>
@@ -50,16 +50,19 @@ Soy un <b>estudiante de Ingeniería en Informática</b>. Me apasiona la tecnolog
 <h2>⚡ Stats ⚡</h2>
 <br>
 <a href="https://github.com/MatiasCorpu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCorpu&langs_count=10&layout=compact&title_color=10b981&size_weight=0.5&count_weight=0.5&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" style="width:400px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCorpu&langs_count=10&layout=compact&title_color=10b981&size_weight=0.5&count_weight=0.5&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width=325 />
 </a>
 
-<a href="http://www.github.com/MatiasCorpu">
-    <img src="https://github-readme-stats.vercel.app/api?username=MatiasCorpu&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true" alt="MatiasCorpu's GitHub stats" />
-</a>
+<br>
 
 <a href="http://www.github.com/MatiasCorpu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCorpu&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MatiasCorpu&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true" alt="MatiasCorpu's GitHub stats" width=390/>
 </a>
+<a href="http://www.github.com/MatiasCorpu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasCorpu&stroke=ffffff&background=000000&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width=415/>
+</a>
+
+
 </div>
 
 <br>
@@ -69,8 +72,6 @@ Soy un <b>estudiante de Ingeniería en Informática</b>. Me apasiona la tecnolog
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
 </div>
