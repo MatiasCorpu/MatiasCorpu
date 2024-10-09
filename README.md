@@ -71,7 +71,5 @@ Soy un <b>estudiante de Ingeniería en Informática</b>. Me apasiona la tecnolog
 
 <hr/>
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-</div>
+![Snake animation](https://github.com/MatiasCorpu/MatiasCorpu/blob/output/github-contribution-grid-snake.svg)
+
