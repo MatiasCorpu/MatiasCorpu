@@ -71,5 +71,4 @@ Soy un <b>estudiante de Ingeniería en Informática</b>. Me apasiona la tecnolog
 
 <hr/>
 
-![Snake animation](https://github.com/MatiasCorpu/MatiasCorpu/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/MatiasCorpu/MatiasCorpu/tree/main)
