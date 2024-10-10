@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=40&center=true&vCenter=true&width=500&color=2B88FF&height=70&duration=1350&lines=Hello+there!+👋;+I'm+Matías!" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=40&center=true&vCenter=true&width=500&color=2B88FF&height=70&duration=1370&lines=Hello+there!+👋;+I'm+Matías!" />
     </td>
     <td>
       <img src="typing.gif" style="width:400px;">
@@ -34,7 +34,7 @@ I am a <b>Computer Engineering student</b>. I am passionate about technology and
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 
 <div align="center">
@@ -44,12 +44,11 @@ I am a <b>Computer Engineering student</b>. I am passionate about technology and
 <!-- falta el icono de Microsoft SQL Server -->
 </div>
 
-
 <hr/>
 
 <div align = "center">
 
-<h2>⚡ Stats ⚡</h2>
+<h3>⚡ Stats ⚡</h2>
 
 <a href="https://github.com/MatiasCorpu">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCorpu&langs_count=10&layout=compact&title_color=10b981&size_weight=0.5&count_weight=0.5&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width=325 />
