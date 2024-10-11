@@ -39,7 +39,7 @@ I am a <b>Computer Engineering student</b>. I am passionate about technology and
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,py,js,html,css,react,tailwind,git,github,vscode,tsql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,py,js,html,css,react,tailwind,git,github,vscode)](https://skillicons.dev)
 
 <!-- falta el icono de Microsoft SQL Server -->
 </div>
