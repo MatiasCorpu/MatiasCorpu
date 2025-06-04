@@ -22,7 +22,6 @@
 
 
 <div align="center">
-  <br>
 
   [![My Skills](https://skillicons.dev/icons?i=c,js,html,css,react,tailwind,git,github,vscode)](https://skillicons.dev)
 
