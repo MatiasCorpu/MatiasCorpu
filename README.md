@@ -26,9 +26,9 @@
 
   falta el icono de Microsoft SQL Server
 </div>
-</div> -->
 
 <hr/>
+</div> -->
 
 <div align = "center">
   <br>
