@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=600&color=808080&height=100&duration=2000&lines=Matías+Corpu;+Estudiante+de+Ingeniería+en+Informática" />
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=600&height=100&color=808080&duration=1700&lines=Matías+Corpu;+Estudiante+de+Ingeniería+en+Informática" />
     </td>
     <td>
       <img src="typing.gif" style="width:400px;">
@@ -33,6 +33,6 @@
 <div align = "center">
   <br>
   <a href="https://github.com/MatiasCorpu">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCorpu&langs_count=10&layout=compact&title_color=10b981&size_weight=0.5&count_weight=0.5&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width=400 />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasCorpu&langs_count=10&layout=compact&title_color=808080&size_weight=0.5&count_weight=0.5&text_color=ffffff&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languajes" alt="Top Languajes" width=400 />
   </a>
 </div>
