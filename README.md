@@ -18,15 +18,15 @@
       * 📱  LinkedIn: <a href="https://www.linkedin.com/in/matías-corpu-490021304/" target="_blank">Matías Corpu</a>
   * 🖥️  Check out my portfolio: <a href="http://matiascorpu.com" target="_blank">matiasCorpu.com</a>
 
-</div> -->
 
 
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=c,js,html,css,react,tailwind,git,github,vscode)](https://skillicons.dev)
 
-  <!-- falta el icono de Microsoft SQL Server -->
+  falta el icono de Microsoft SQL Server
 </div>
+</div> -->
 
 <hr/>
 
